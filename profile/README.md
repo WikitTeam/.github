@@ -28,7 +28,7 @@
   - And more
 
 ### Wikit GraphQL
-- Efficiently indexes all wiki, page, and user data  
+- Efficiently indexes wiki, page, and user data  
 - Allows users to create custom data applications and queries
 
 ### Other Wiki Extensions & Management Plugins
