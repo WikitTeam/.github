@@ -38,7 +38,7 @@
 
 ---
 
-## 📬 Contact Us
+## Contact Us
 
 - Email: support@unitreaty.org  
 - Websites:
